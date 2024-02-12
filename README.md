@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @laurenupex
 - 👀 I’m interested in data analytics and neuroscience!
-- 🌱 I’m currently learning to code in Python! I haven't done any coding since VisualBasic at GCSE :(
-- 💞️ I’m looking to collaborate on anything exciting!
+- 🌱 I’m currently learning to code in Python!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm currently a psychology student at The Open University!
 
