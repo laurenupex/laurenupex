@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @laurenupex
-- 👀 I’m interested in data analytics and neuroscience!
+- 👀 I’m interested in data analytics and neuroscience
 - 🌱 I’m currently learning to code in Python!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm currently a psychology student at The Open University!
+- ⚡ Fun fact: I'm a psychology student at The Open University
 
 <!---
 laurenupex/laurenupex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
